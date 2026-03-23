@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/sahil030804?label=Followers&style=for-the-badge&logo=github&color=blue" alt="Followers">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" alt="Maintained">
-  <img src="[https://moe-counter.glitch.me/get/@sahil030804](https://komarev.com/ghpvc/?username=sahil030804)" alt="Moe Counter">
+  <img src="https://komarev.com/ghpvc/?username=sahil030804" alt="Moe Counter">
 </p>
 
 ### 👨‍💻 About Me
