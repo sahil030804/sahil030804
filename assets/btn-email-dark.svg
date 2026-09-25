@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="121" height="44" viewBox="0 0 121 44" role="img" aria-label="Email">
+<style>
+@font-face{font-family:M;src:url(data:font/woff2;base64,d09GMgABAAAAAAPEAA8AAAAAB0gAAANqAAI2BAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVF4AVBEICoM0gm4BNgIkAyQLFAAEIAWEPgcgG+kFEVWb7ym+SuCpLHlxxxNrQRVlhmXYYp2q+H5zI/hR1F28xx0Pz+/vv7XPve8DGjExQUxkGqeZKkY6FChUqEl1knz6tfb+LeJZ7HOY+YnZireFuJSq0306pHSlYcR/3fbfZddMZAFwWQqJFOcBpb3/udmvl40JNGzx5m2FlI5pZb20F9gAHXdb4IBOJ0eXg5ZIi6hzSmEcFQD/c029fy0WvSixGQ6jUmC4cTTQ3oQG1nTniwIssgGeDWzamdapvsZxqzhZRcwetY8RqACEUBBCIATKdOgSE/dnLlQjh/8BBMr01V+ilmvaEt2+TTMLtPO0lDRQSTqAegAzpv2xDNM1FkiUCvfwJ6Zvg8eorcz/33Nkf2IUAalvewvoriCEEgkNMvSWdqU3bA9go7RyS9BCkTYDJaTI4xgglgHxFJAVhXQfQujXgAAJmSMR0z25sYAKJZJcd5MQRRbF/4CQwk/nzf2MGdIjACDE/1gQSkEdirEfnAEV+2HS/1hd0TnKqvvP5YVKFRKS2haZT5K+6vHeetVl93a+AgfnD1jKoqx5u7sOvghSduCAcdUj5VlZVKZylWve7m8d+b61vl55IdVb9tvj5vTof/doKcv2L3Xm/OybzY1c7/W3K4wz8b1T9H6wBrMZNt+l7vjSmbNWL1l0U5/5WoytwfG+EldcsGT51pUL9y7dWP1b7b0RkzfnjRly/qRNjYyX4bQ9u3kbdv8QqJNT+vrtTfwaD+fHWF30Xgzb/XO2616NY+A6tbN+RR4Y7xueXTzbvJhM4me7la3nT1K53Z+P94ORQ7jq6LJ197B1dl6hqq8cRUqq1cAiIA3qpdsMIEgjpl8D04Vp5ythsq8A7+6rC/D5aUt05feKBookEPzBbFrK0P/hOULESuuYL0ECtggndML2NwGfEJTqL2mSREGoV+4ARuSluA9ACh3uS0mV11JmpM9SbnD1lAraarZYZGBtsAkq4kQlJ8tFdUmcPa9GWdyEHZ/ldCGbzkh0ejLVqANDMnZ81aRt1jSaLYmmZ2yJPedSYHPJuES3ZCnDCnxiUG7AEicuT0yks1JGjo3H2eKEq2sRsc8+9LaaLXm6yoWoMG06PTW1suj2inzCmKD3NomOhiv58USWqlD7oKzgDm/EoI6kaCEbt7HFaImBJKehAgAAAA==) format("woff2")}
+.m{font-family:M,ui-monospace,monospace}
+@keyframes nudge{0%,70%,100%{transform:translateX(0)}80%{transform:translateX(4px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.cover{display:none}}
+</style>
+<rect width="121" height="44" fill="#0b0c0e"/>
+<rect x="0" y="0" width="121" height="44" fill="#141518"/>
+<text x="20" y="28" class="m" font-size="15" fill="#ecece7">Email</text>
+<g style="animation:nudge 3s cubic-bezier(.16,1,.3,1) infinite"><path d="M87 22 h12 M94 16 l6 6 l-6 6" fill="none" stroke="#ecece7" stroke-width="1.5"/></g>
+<rect x="0.5" y="0.5" width="120" height="43" fill="none" stroke="#25272b"/>
+</svg>

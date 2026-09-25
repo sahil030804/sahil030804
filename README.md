@@ -1,37 +1,56 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Sahil Ranpariya, Backend Engineer | Node.js" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" alt="Sahil Ranpariya, Backend Engineer | Node.js. A request travels route, controller, service, data access." width="100%">
 </picture>
 
-Skilled in REST APIs, AI-powered applications, third-party integrations, OAuth authentication, webhooks, and event-driven systems across calendar, e-commerce, messaging, and payment domains, with a strong focus on clean architecture, system design, security, and performance.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img src="assets/terminal-light.svg" alt="$ whoami: Sahil Ranpariya, backend engineer. Focus: REST APIs, third-party integrations, OAuth, webhooks, event-driven systems, AI-powered applications. Domains: calendar, e-commerce, messaging, payments. Location: Surat, Gujarat." width="100%">
+</picture>
 
-[LinkedIn](https://www.linkedin.com/in/sahil-ranpariya/) &nbsp;·&nbsp; [Email](mailto:sahilranpariya60@gmail.com) &nbsp;·&nbsp; Surat, Gujarat
+### Currently
 
----
+Backend Engineer at **Sphere Tech** since Sep 2024, building **Kandinsky**, a multi-tenant art commerce platform, and **Abroad**, a coaching and group-travel platform.
 
-### Experience
+### Things I've built
 
-**Backend Engineer, Sphere Tech** &nbsp;`Sep 2024 - Present`
-
-- **Kandinsky**, multi-tenant art commerce platform. Built the bi-directional Shopify and Squarespace inventory/order sync engine with exactly-once processing, and eliminated oversell races on limited-edition inventory.<br><sub>Node.js · Express · PostgreSQL · BullMQ · Stripe</sub>
-- **Abroad**, coaching and group-travel platform. Designed and built the scheduling subsystem across Google Calendar, Microsoft Graph, and Apple CalDAV, and automated collection of outstanding balances through Stripe off-session charges.<br><sub>Node.js · Express · MongoDB · Redis · Stripe</sub>
-
-### Projects
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**Stripe Billing Service**](https://github.com/sahil030804/Stripe-Integration) | Subscription and one-time payment flows, signature-verified webhook reconciliation with idempotency checks, and a coupon and promotion-code engine. | Express, Sequelize, PostgreSQL, BullMQ, Redis, Stripe |
-| **JawabAI** | WhatsApp AI support platform: Embedded Signup onboarding, HMAC-verified webhooks, and a queue-based retrieval pipeline with local ONNX embeddings. | Express 5, PostgreSQL, Redis, BullMQ, Meta Graph API |
-| **Switchboard** | Commerce operations platform: hashed-token session layer, per-request CSRF origin checks, and a checksummed forward-only migration runner. | Node 22, Express 5, PostgreSQL, Zod, Docker |
+<p>
+  <a href="https://github.com/sahil030804/Stripe-Integration">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-stripe-billing-dark.svg">
+      <img src="assets/card-stripe-billing-light.svg" alt="Stripe Billing Service: subscriptions, one-time payments and idempotent webhook reconciliation" width="32%">
+    </picture>
+  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-jawabai-dark.svg">
+    <img src="assets/card-jawabai-light.svg" alt="JawabAI: WhatsApp AI support platform with a queue-based retrieval pipeline" width="32%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/card-switchboard-dark.svg">
+    <img src="assets/card-switchboard-light.svg" alt="Switchboard: commerce operations platform with a hardened session and CSRF layer" width="32%">
+  </picture>
+</p>
 
 ### Stack
 
-| Area | Tools |
-| :-- | :-- |
-| **Languages** | JavaScript (Node.js), SQL |
-| **Backend** | Express, REST API design, Passport/OAuth 2.0, JWT, Joi |
-| **Databases** | PostgreSQL, MongoDB, Sequelize, Mongoose |
-| **Queues & caching** | Redis, BullMQ, Bull |
-| **Payments** | Stripe (Subscriptions, PaymentIntents, Connect, Invoices, webhooks) |
-| **Integrations** | Shopify, Squarespace, Google Calendar, Microsoft Graph, Apple CalDAV, Mailgun |
-| **Cloud / infra** | AWS S3, CloudFront, PM2, Nginx |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" alt="Node.js, Express, PostgreSQL, MongoDB, Redis, BullMQ, Sequelize, Mongoose, JWT, OAuth 2.0, Stripe, Shopify, Squarespace, Google Calendar, Microsoft Graph, Apple CalDAV, Mailgun, AWS S3, CloudFront, Nginx" width="100%">
+</picture>
+
+### Connect
+
+<a href="https://www.linkedin.com/in/sahil-ranpariya/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg">
+    <img src="assets/btn-linkedin-light.svg" alt="LinkedIn" height="44">
+  </picture>
+</a>
+<a href="mailto:sahilranpariya60@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg">
+    <img src="assets/btn-email-light.svg" alt="Email" height="44">
+  </picture>
+</a>
+
+<!-- Animated SVGs are generated by tools/generate.py -->
